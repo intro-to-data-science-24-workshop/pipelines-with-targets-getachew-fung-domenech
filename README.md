@@ -7,7 +7,7 @@ This repository provides materials for a student-run session on how to use to ha
 
 ### Session contents
 
-This session will introduce you to the package targets and how it can help you organise your pipeline. The pipeline is the process that takes in raw data and outputs a result. The pipeline is also called a recipe.
+This session will introduce the targets package and demonstrate how it can help you efficiently organize your data pipeline. A pipeline refers to the structured process that transforms raw data into meaningful results.
 
 Data wrangling is one of the core steps in the data science workflow. dplyr is a grammar of data manipulation, providing a consistent set of verbs that help you solve the most common data manipulation challenges, including the manipulation of datasets and variables.
 
