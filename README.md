@@ -38,3 +38,10 @@ The session is accompanied by a tutorial, which can be accessed [here](https://g
 
 The material in this repository is made available under the [MIT license](http://opensource.org/licenses/mit-license.php). 
 
+## Statement of Contributions
+
+- Laia Domenech Burin prepared the guided tutorial and will make the live presentation. 
+- Hanna Fantahun Getachew made the PPT presentation and did the video recording. 
+- Chloe Fung did the independent exercises and did the video recording.
+
+
